@@ -1,4 +1,4 @@
-# fuel_calc
+# FuelCalculator
 
 A new Flutter project in mobile systems development.
 
