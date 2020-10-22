@@ -1,6 +1,6 @@
 # fuel_calc
 
-A new Flutter project.
+A new Flutter project in mobile systems development.
 
 ## Getting Started
 
